@@ -1,3 +1,3 @@
-# freeglass GmbH & Co. KG
-This account belongs to freeglass GmbH &amp; Co. KG, Germany.
+# .github
+This repository is used to publish the profile.
 
