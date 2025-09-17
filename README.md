@@ -1,2 +1,3 @@
-# .github
-Private corporate Git repository owned by freeglass GmbH &amp; Co. KG
+# freeglass GmbH & Co. KG
+This account belongs to freeglass GmbH &amp; Co. KG, Germany.
+
